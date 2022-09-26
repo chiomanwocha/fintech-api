@@ -1,0 +1,27 @@
+{
+  "name": "fintech-api",
+  "version": "1.0.0",
+  "description": "API for fin-tech, academy exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwochachioma/fintech-api.git"
+  },
+  "author": "Chioma Nwocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwochachioma/fintech-api/issues"
+  },
+  "homepage": "https://github.com/nwochachioma/fintech-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
